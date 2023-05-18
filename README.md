@@ -1,2 +1,2 @@
 # lpthw
-python_tutorial_code
+These are codes from the learn python the hard way
